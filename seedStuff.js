@@ -149,5 +149,5 @@ const seedStuff = (()=> {
   };
 })();
 
-exports.textFromSeed = seedStuff.textFromSeed;
-exports.seedFromText = seedStuff.seedFromText;
+export const textFromSeed = seedStuff.textFromSeed;
+export const seedFromText = seedStuff.seedFromText;
