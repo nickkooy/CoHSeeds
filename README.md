@@ -17,3 +17,5 @@ Check out index.js for an example of how to use it!
 Note:
 Not all numbers can turn into text seeds, so it can fail. If you find one of those let me know! I'll see if I can make the function a bit safer to use :)
 
+Check out this fiddle too:
+https://jsfiddle.net/0zx7rfjc/4/
